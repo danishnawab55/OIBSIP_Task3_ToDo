@@ -1,2 +1,2 @@
-# OIBSIP_Task3_ToDo
-This is Oasis Infobyte internship project of Level 2 Task 3 - ToDo
+# todo
+In case you want to try my todo website its [here](https://danishnawab55.github.io/todo/)
